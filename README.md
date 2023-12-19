@@ -3,7 +3,9 @@ Berikut hasil akhir (final) project web programming saya,
 Nama  : Farhan Rizky Novan D
 NIM   : 2502009141
 Kelas : LB01
+
 **About Mytodolist**
+
 "Mytodolist" merupakan sebuah web yang user-friendly untuk mempermudah user dalam me-manage task-task (kegiatan) yang harus user lakukan.
 
 ===============
