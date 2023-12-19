@@ -4,6 +4,10 @@ Nama  : Farhan Rizky Novan D
 NIM   : 2502009141
 Kelas : LB01
 
+"Mytodolist" merupakan sebuah web yang user-friendly untuk mempermudah user dalam me-manage task-task (kegiatan) yang harus user lakukan.
+
+================================================================================
+
 Catatan penting untuk kelompok ini!
 
 Mohon maaf pak, atas ketidak selesainya project webprogramming kelompok saya, saya Farhan Rizky Novan dengan NIM 2502009141 (ketua dari kelompok “Mytodolist”) ingin menyatakan bahwa anggota kelompok saya yang lain yaitu :
