@@ -10,6 +10,11 @@ Kelas : LB01
 
 "Mytodolist" merupakan sebuah web yang user-friendly untuk mempermudah user dalam me-manage task-task (kegiatan) yang harus user lakukan.
 
+Berikut hal-hal yang kurang :
+- Front-end hanya connect ke back-end saja, untuk migration masih belom bisa.
+- Migrate create users, karena tidak bisa dimigrate di laptop saya, tapi untuk code registration nya udah saya buat di controllernya.
+- Input dari registration tidak bisa masuk ke table, karena tidak bisa dimigrate.
+
 ===============
 
 **!!!IMPORTANT NOTE!!!**
