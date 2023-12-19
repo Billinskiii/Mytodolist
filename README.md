@@ -1,7 +1,9 @@
 Berikut hasil akhir (final) project web programming saya,
 
 Nama  : Farhan Rizky Novan D
+
 NIM   : 2502009141
+
 Kelas : LB01
 
 **ABOUT MYTODOLIST**
