@@ -7,7 +7,9 @@ Kelas : LB01
 "Mytodolist" merupakan sebuah web yang user-friendly untuk mempermudah user dalam me-manage task-task (kegiatan) yang harus user lakukan.
 
 ===============
+
 **!!!Important Note!!!**
+
 Catatan penting untuk kelompok ini!
 
 Mohon maaf pak, atas ketidak selesainya project webprogramming kelompok saya, saya Farhan Rizky Novan dengan NIM 2502009141 (ketua dari kelompok “Mytodolist”) ingin menyatakan bahwa anggota kelompok saya yang lain yaitu :
