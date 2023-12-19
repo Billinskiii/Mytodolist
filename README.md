@@ -30,6 +30,6 @@ Mohon maaf pak, atas ketidak selesainya project webprogramming kelompok saya, sa
 
 Nama-nama di atas **sama sekali tidak berkontribusi** mengerjakan project ini, bisa saya pastikan hampir 99% dari project ini **saya yang mengerjakan secara mandiri tidak dibantu siapapun**, padahal di grup chat saya selalu follow-up tentang hal yang perlu dikerjakan dan yang sudah dikerjakan. Hal ini menyebabkan saya merasa keberatan dalam mengerjakan tugas ini sendirian, di sisi lain juga saya harus mengerjakan project-project dari mata kuliah lain. Sehingga pengerjaan project mata kuliah ini dan yang lain pun terhambat dan hanya bisa saya selesaikan hingga sekitar 75%-80% nya saja.
 
-Dengan hal ini, saya mohon bapak Tegar mengerti dan dapat **memberi nilai 0 kepada orang-orang yang saya sebutkan di atas.**
+Dengan hal ini, saya harap bapak Tegar dapat mengerti dan dapat **memberi nilai 0 kepada orang-orang yang saya sebutkan di atas.**
 
 Terimakasih pak, saya mohon maaf karena hal ini project web programming tidak bisa selesai hingga 100%.
